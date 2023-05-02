@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **adenijifara@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AW8IYK2R_wQmDEsZ7qeC6jHS80Z3NiMb/view?usp=sharing](https://drive.google.com/file/d/1AW8IYK2R_wQmDEsZ7qeC6jHS80Z3NiMb/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1AW8IYK2R_wQmDEsZ7qeC6jHS80Z3NiMb/view?usp=sharing)
 
 - ⚡ Fun fact **I love games**
 
