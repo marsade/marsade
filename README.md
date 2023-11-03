@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fara</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A frontend developer</h3>
 
 
 - 🌱 I’m currently learning **ALX Software engineering**
