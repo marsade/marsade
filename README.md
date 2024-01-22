@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Mars<br><br>- 🔭 I’m working on completing ALX software engineering<br>- 📚 I'm currently learning python and sql</p>
+<p align="left">I'm Mars<br><br>- 🔭 I’m working on completing ALX Software Engineering Program<br>- 📚 I'm currently learning Python and SQL</p>
 
 ###
 
